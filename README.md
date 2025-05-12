@@ -12,6 +12,11 @@ Identify frequently visited stations
 
 Evaluate the impact of recent fare policies (like the August 2024 50-cent fare initiative)
 
+## Live Demo
+
+Check out the live version of this project here:  
+👉 [Click to view the Shiny app](https://thingocminhnguyen.shinyapps.io/Taptrack/)
+
 ## Techniques & Tools
 Shiny & Flexdashboard: Interactive UI and layout
 
