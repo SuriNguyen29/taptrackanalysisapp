@@ -1,0 +1,457 @@
+ Date,Time,From,Time,To,Fare,Credit,Balance
+ 03/Feb/2023,10:34 AM,Darra station ,10:51 AM,Indooroopilly station ,$3.47,,$14.01
+ 03/Feb/2023,11:12 AM,Lambert Road - 35 (Touch on Transfer),11:27 AM,Uni of Qld Arrival Stop ,$0.00,,$14.01
+ 03/Feb/2023,15:41 PM,UQ Chancellors Place - Stop D ,15:59 PM,'Cribb Street' Coronation Drive ,$3.55,,$10.46
+ 03/Feb/2023,18:46 PM,Milton station ,19:17 PM,Darra station ,$4.34,,$6.12
+ 06/Feb/2023,7:35 AM,Darra station ,7:47 AM,Indooroopilly station ,$4.34,,$1.78
+ 06/Feb/2023,7:52 AM,Auto top up(Lambert Road - 35 ),,,,$20.00,$21.78
+ 06/Feb/2023,7:52 AM,Lambert Road - 35 (Touch on Transfer),8:06 AM,Uni of Qld Arrival Stop ,$0.00,,$21.78
+ 06/Feb/2023,16:29 PM,UQ Chancellors Place - Stop A ,16:46 PM,Clarence Road - 36 ,$3.55,,$18.23
+ 06/Feb/2023,16:49 PM,Indooroopilly station (Touch on Transfer),17:02 PM,Oxley station ,$0.79,,$17.44
+ 06/Feb/2023,17:11 PM,Oxley station (Touch on Transfer),17:12 PM,Oxley station (Cancel touch on),$0.00,,$17.44
+ 27/Mar/2023,12:03 PM,Darra station ,12:21 PM,Indooroopilly station ,$3.47,,$13.97
+ 27/Mar/2023,14:24 PM,UQ Chancellors Place - Stop D ,14:32 PM,'Toowong' Benson St ,$2.84,,$11.13
+ 27/Mar/2023,15:23 PM,Toowong station (Touch on Transfer),15:51 PM,Darra station ,$0.63,,$10.50
+ 17/May/2023,15:49 PM,Darra station ,16:22 PM,Central station ,$4.34,,$6.16
+ 17/May/2023,20:25 PM,Central station ,20:34 PM,Milton station ,$2.84,,$3.32
+ 17/May/2023,21:11 PM,Auto top up(Milton station ),,,,$20.00,$23.32
+ 17/May/2023,21:11 PM,Milton station (Touch on Transfer),21:33 PM,Sherwood station ,$0.63,,$22.69
+ 19/May/2023,11:40 AM,Lambert Road - 35 ,11:54 AM,Uni of Qld Arrival Stop ,$2.84,,$19.85
+ 19/May/2023,17:02 PM,Indooroopilly station ,17:12 PM,Darra station ,$4.34,,$15.51
+ 07/Jun/2023,16:55 PM,UQ Chancellors Place - Stop A ,17:11 PM,Clarence Road - 36 ,$3.55,,$11.96
+ 07/Jun/2023,17:15 PM,Indooroopilly station (Touch on Transfer),17:29 PM,Darra station ,$0.79,,$11.17
+ 08/Jun/2023,8:02 AM,Darra station ,8:17 AM,Indooroopilly station ,$4.34,,$6.83
+ 08/Jun/2023,8:24 AM,Lambert Road - 35 (Touch on Transfer),8:36 AM,Uni of Qld Arrival Stop ,$0.00,,$6.83
+ 08/Jun/2023,16:53 PM,UQ Chancellors Place - Stop A ,17:08 PM,Clarence Road - 36 ,$3.55,,$3.28
+ 08/Jun/2023,17:16 PM,Auto top up(Indooroopilly station ),,,,$20.00,$23.28
+ 08/Jun/2023,17:16 PM,Indooroopilly station (Touch on Transfer),17:38 PM,Darra station ,$0.79,,$22.49
+ 09/Jun/2023,10:44 AM,Darra station ,11:06 AM,Indooroopilly station ,$3.47,,$19.02
+ 09/Jun/2023,11:11 AM,Lambert Road - 35 (Touch on Transfer),11:22 AM,Uni of Qld Arrival Stop ,$0.00,,$19.02
+ 09/Jun/2023,16:44 PM,UQ Chancellors Place - Stop A ,16:58 PM,Clarence Road - 36 ,$3.55,,$15.47
+ 09/Jun/2023,17:01 PM,Indooroopilly station (Touch on Transfer),17:11 PM,Darra station ,$0.79,,$14.68
+ 12/Jun/2023,9:05 AM,Darra station ,9:21 AM,Indooroopilly station ,$3.47,,$11.21
+ 12/Jun/2023,9:24 AM,Lambert Road - 35 (Touch on Transfer),9:38 AM,Uni of Qld Arrival Stop ,$0.00,,$11.21
+ 12/Jun/2023,12:53 PM,Toowong station ,13:17 PM,Darra station ,$3.47,,$7.74
+ 18/Jun/2023,10:03 AM,Mowbray Park ferry terminal ,10:05 AM,Sydney Street ferry terminal ,$2.84,,$4.90
+ 18/Jun/2023,12:45 PM,Auto top up(New Farm Park ferry terminal ),,,,$20.00,$24.90
+ 18/Jun/2023,12:45 PM,New Farm Park ferry terminal ,12:48 PM,Mowbray Park ferry terminal ,$2.84,,$22.06
+ 23/Jun/2023,7:24 AM,Darra station ,9:09 AM,Helensvale station ,$11.46,,$10.60
+ 23/Jun/2023,9:10 AM,Helensvale station (Touch on Transfer),9:26 AM,Griffith University station (Southport) ,$0.00,,$10.60
+ 23/Jun/2023,16:29 PM,Griffith University station (Southport) ,16:52 PM,Helensvale station ,$3.55,,$7.05
+ 23/Jun/2023,16:53 PM,Helensvale station (Touch on Transfer),18:25 PM,Darra station ,$7.91,,-$0.86
+ 11/Jul/2023,8:16 AM,Auto top up(Darra station ),,,,$20.00,$19.14
+ 11/Jul/2023,8:16 AM,Darra station ,8:47 AM,Central station ,$4.34,,$14.80
+ 11/Jul/2023,17:26 PM,Central station ,17:51 PM,Darra station ,$4.34,,$10.46
+ 12/Jul/2023,8:19 AM,Darra station ,8:53 AM,Central station ,$4.34,,$6.12
+ 12/Jul/2023,17:14 PM,Central station ,17:38 PM,Darra station ,$4.34,,$1.78
+ 18/Jul/2023,12:18 PM,Auto top up(Darra station ),,,,$20.00,$21.78
+ 18/Jul/2023,12:18 PM,Darra station ,12:36 PM,Indooroopilly station ,$3.47,,$18.31
+ 18/Jul/2023,12:39 PM,Lambert Road - 35 (Touch on Transfer),12:51 PM,Uni of Qld Arrival Stop ,$0.00,,$18.31
+ 18/Jul/2023,16:05 PM,UQ Lakes - Zone A ,16:19 PM,Cultural Centre station ,$3.55,,$14.76
+ 18/Jul/2023,18:22 PM,Cultural Centre station ,18:26 PM,Roma St Bus Station (SEB IB Services) ,$3.55,,$11.21
+ 18/Jul/2023,18:31 PM,Roma Street station (Touch on Transfer),20:28 PM,Darra station ,$0.79,,$10.42
+ 01/Aug/2023,7:56 AM,Darra station ,8:18 AM,Roma Street station ,$4.34,,$6.08
+ 01/Aug/2023,8:21 AM,Roma St Bus Station Platform 2 (Touch on Transfer),8:32 AM,Mater Hill station Platform 1 ,$0.00,,$6.08
+ 01/Aug/2023,9:36 AM,Mater Hill station Platform 1 ,9:44 AM,UQ Lakes - Zone A ,$2.84,,$3.24
+ 01/Aug/2023,17:47 PM,Auto top up(UQ Chancellors Place - Stop A ),,,,$20.00,$23.24
+ 01/Aug/2023,17:47 PM,UQ Chancellors Place - Stop A ,18:04 PM,Clarence Road - 36 ,$3.55,,$19.69
+ 01/Aug/2023,18:07 PM,Indooroopilly station (Touch on Transfer),18:19 PM,Darra station ,$0.79,,$18.90
+ 10/Aug/2023,9:03 AM,Darra station ,9:22 AM,Indooroopilly station ,$3.47,,$15.43
+ 10/Aug/2023,9:24 AM,Lambert Road - 35 (Touch on Transfer),9:34 AM,Uni of Qld Arrival Stop ,$0.00,,$15.43
+ 10/Aug/2023,16:11 PM,UQ St Lucia ferry terminal ,16:32 PM,Milton ferry terminal ,$3.55,,$11.88
+ 10/Aug/2023,18:02 PM,Milton station ,18:27 PM,Darra station ,$4.34,,$7.54
+ 12/Aug/2023,14:36 PM,Darra station ,15:03 PM,Milton station ,$3.47,,$4.07
+ 12/Aug/2023,17:44 PM,Auto top up(Milton station ),,,,$20.00,$24.07
+ 12/Aug/2023,17:44 PM,Milton station ,18:10 PM,Darra station ,$3.47,,$20.60
+ 15/Aug/2023,9:28 AM,Darra station ,9:51 AM,Indooroopilly station ,$3.47,,$17.13
+ 15/Aug/2023,9:58 AM,Lambert Road - 35 (Touch on Transfer),10:08 AM,Uni of Qld Arrival Stop ,$0.00,,$17.13
+ 15/Aug/2023,16:25 PM,UQ St Lucia ferry terminal ,16:35 PM,West End ferry terminal ,$3.55,,$13.58
+ 15/Aug/2023,16:40 PM,West End Ferry - 15 (Touch on Transfer),16:45 PM,West End School - 9 ,$0.00,,$13.58
+ 15/Aug/2023,18:50 PM,Central station ,19:36 PM,Darra station ,$4.34,,$9.24
+ 21/Aug/2023,16:53 PM,UQ Chancellors Place - Stop B ,17:10 PM,Holy Family - 33 ,$3.55,,$5.69
+ 21/Aug/2023,17:28 PM,Indooroopilly station (Touch on Transfer),17:48 PM,Darra station ,$0.79,,$4.90
+ 22/Aug/2023,11:34 AM,Auto top up(Darra station ),,,,$20.00,$24.90
+ 22/Aug/2023,11:34 AM,Darra station ,11:50 AM,Indooroopilly station ,$3.47,,$21.43
+ 22/Aug/2023,11:57 AM,Lambert Road - 35 (Touch on Transfer),12:07 PM,Uni of Qld Arrival Stop ,$0.00,,$21.43
+ 24/Aug/2023,8:16 AM,Darra station ,8:51 AM,Central station ,$4.34,,$17.09
+ 24/Aug/2023,17:48 PM,Central station ,18:12 PM,Darra station ,$4.34,,$12.75
+ 25/Aug/2023,16:45 PM,Indooroopilly station ,17:00 PM,Darra station ,$4.34,,$8.41
+ 30/Aug/2023,8:54 AM,Darra station ,9:20 AM,Milton station ,$3.47,,$4.94
+ 30/Aug/2023,10:08 AM,Auto top up(Milton ferry terminal ),,,,$20.00,$24.94
+ 30/Aug/2023,10:08 AM,Milton ferry terminal (Touch on Transfer),10:23 AM,UQ St Lucia ferry terminal ,$0.00,,$24.94
+ 30/Aug/2023,16:53 PM,UQ Lakes - Zone A ,17:10 PM,King George Square Station 1E ,$3.55,,$21.39
+ 30/Aug/2023,22:05 PM,Central station ,22:42 PM,Darra station ,$3.47,,$17.92
+ 04/Sep/2023,9:16 AM,Darra station ,9:38 AM,Indooroopilly station ,$3.47,,$14.45
+ 04/Sep/2023,9:46 AM,Lambert Road - 35 (Touch on Transfer),10:01 AM,Uni of Qld Arrival Stop ,$0.00,,$14.45
+ 04/Sep/2023,16:37 PM,UQ Chancellors Place - Stop B ,16:46 PM,Clarence Road - 36 ,$3.55,,$10.90
+ 04/Sep/2023,16:49 PM,Indooroopilly station (Touch on Transfer),17:04 PM,Darra station ,$0.79,,$10.11
+ 11/Sep/2023,9:01 AM,Darra station ,9:21 AM,Indooroopilly station ,$3.47,,$6.64
+ 11/Sep/2023,9:24 AM,Lambert Road - 35 (Touch on Transfer),9:37 AM,Uni of Qld Arrival Stop ,$0.00,,$6.64
+ 11/Sep/2023,15:33 PM,Indooroopilly station ,15:52 PM,Darra station ,$4.34,,$2.30
+ 28/Sep/2023,13:00 PM,Auto top up(Darra station ),,,,$20.00,$22.30
+ 28/Sep/2023,13:00 PM,Darra station ,13:26 PM,Toowong station ,$3.47,,$18.83
+ 28/Sep/2023,13:33 PM,'Toowong' Benson St (Touch on Transfer),13:39 PM,Field Street - 23 ,$0.00,,$18.83
+ 28/Sep/2023,18:57 PM,UQ Chancellors Place - Stop D ,19:04 PM,'Toowong' Benson St ,$3.55,,$15.28
+ 28/Sep/2023,19:07 PM,Toowong station (Touch on Transfer),19:36 PM,Darra station ,$0.63,,$14.65
+ 04/Oct/2023,8:35 AM,Darra station ,8:59 AM,Toowong station ,$3.47,,$11.18
+ 04/Oct/2023,9:45 AM,'Toowong' Benson St (Touch on Transfer),9:57 AM,UQ Chancellors Place - Stop E ,$0.00,,$11.18
+ 04/Oct/2023,17:47 PM,UQ Chancellors Place - Stop A ,18:02 PM,Clarence Road - 36 ,$3.55,,$7.63
+ 04/Oct/2023,18:04 PM,Indooroopilly station (Touch on Transfer),18:14 PM,Darra station ,$0.79,,$6.84
+ 28/Oct/2023,17:48 PM,Darra station ,18:25 PM,Fortitude Valley station ,$3.47,,$3.37
+ 29/Oct/2023,12:49 AM,Auto top up(Fortitude Valley station ),,,,$20.00,$23.37
+ 29/Oct/2023,12:49 AM,Fortitude Valley station ,1:26 AM,Darra station ,$3.47,,$19.90
+ 31/Oct/2023,7:20 AM,Darra station ,7:44 AM,Central station ,$4.34,,$15.56
+ 31/Oct/2023,12:51 PM,Central station ,13:46 PM,Darra station ,$3.47,,$12.09
+ 01/Nov/2023,9:38 AM,Darra station ,10:19 AM,Central station ,$3.47,,$8.62
+ 01/Nov/2023,17:08 PM,Central station ,17:38 PM,Darra station ,$4.34,,$4.28
+ 03/Nov/2023,8:07 AM,Auto top up(Darra station ),,,,$20.00,$24.28
+ 03/Nov/2023,8:07 AM,Darra station ,8:30 AM,Roma Street station ,$4.34,,$19.94
+ 03/Nov/2023,8:31 AM,Roma St Bus Station Platform 2 (Touch on Transfer),8:38 AM,Cultural Centre Platform 3 ,$0.00,,$19.94
+ 03/Nov/2023,8:39 AM,Cultural Centre Platform 2 (Touch on Transfer),8:44 AM,Woolloongabba station Platform 2 ,$0.00,,$19.94
+ 03/Nov/2023,12:26 PM,Woolloongabba station Platform 1 ,12:33 PM,UQ Lakes - Zone C ,$2.84,,$17.10
+ 03/Nov/2023,16:42 PM,UQ Chancellors Place - Stop B ,16:58 PM,Clarence Road - 36 ,$3.55,,$13.55
+ 03/Nov/2023,17:01 PM,Indooroopilly station (Touch on Transfer),17:11 PM,Darra station ,$0.79,,$12.76
+ 07/Nov/2023,11:48 AM,Darra station ,12:06 PM,Indooroopilly station ,$3.47,,$9.29
+ 07/Nov/2023,12:12 PM,Lambert Road - 35 (Touch on Transfer),12:26 PM,Uni of Qld Arrival Stop ,$0.00,,$9.29
+ 07/Nov/2023,15:12 PM,UQ Chancellors Place - Stop A ,15:30 PM,Clarence Road - 36 ,$2.84,,$6.45
+ 07/Nov/2023,15:33 PM,Indooroopilly station (Touch on Transfer),15:52 PM,Darra station ,$0.79,,$5.66
+ 27/Nov/2023,8:45 AM,Darra station ,9:40 AM,Central station ,$3.47,,$2.19
+ 27/Nov/2023,16:48 PM,Auto top up(Central station ),,,,$20.00,$22.19
+ 27/Nov/2023,16:48 PM,Central station ,17:11 PM,Darra station ,$4.34,,$17.85
+ 28/Nov/2023,8:56 AM,Darra station ,9:27 AM,Central station ,$3.47,,$14.38
+ 28/Nov/2023,17:53 PM,Central station ,18:26 PM,Darra station ,$4.34,,$10.04
+ 29/Nov/2023,8:19 AM,Darra station ,8:52 AM,Central station ,$4.34,,$5.70
+ 29/Nov/2023,17:15 PM,Central station ,17:22 PM,Milton station ,$3.55,,$2.15
+ 29/Nov/2023,19:59 PM,Auto top up(Milton station ),,,,$20.00,$22.15
+ 29/Nov/2023,19:59 PM,Milton station ,20:27 PM,Darra station ,$3.47,,$18.68
+ 04/Dec/2023,15:50 PM,Darra station ,16:27 PM,Central station ,$4.34,,$14.34
+ 04/Dec/2023,23:17 PM,City Hall - KGS 1A ,23:28 PM,Toowong - 14a - High St ,$2.84,,$11.50
+ 04/Dec/2023,23:32 PM,Toowong station (Touch on Transfer),23:57 PM,Darra station ,$0.63,,$10.87
+ 12/Dec/2023,14:08 PM,Darra station ,14:43 PM,Toowong station ,$3.47,,$7.40
+ 12/Dec/2023,14:59 PM,'Toowong' Benson St (Touch on Transfer),15:09 PM,UQ Chancellors Place - Stop E ,$0.00,,$7.40
+ 12/Dec/2023,20:28 PM,UQ Chancellors Place - Stop D ,20:42 PM,'Cribb Street' Coronation Drive ,$2.84,,$4.56
+ 12/Dec/2023,21:15 PM,Auto top up(Milton station ),,,,$20.00,$24.56
+ 12/Dec/2023,21:15 PM,Milton station (Touch on Transfer),21:41 PM,Darra station ,$0.63,,$23.93
+ 13/Dec/2023,10:49 AM,Darra station ,11:21 AM,Central station ,$3.47,,$20.46
+ 13/Dec/2023,11:36 AM,Adelaide St op Anzac Sq (r) (Stop 36) (Touch on Transfer),11:46 AM,Manning Street - 4 ,$0.00,,$20.46
+ 13/Dec/2023,16:07 PM,South Bank busway station Platform 2 ,16:17 PM,UQ Lakes - Zone A ,$3.55,,$16.91
+ 13/Dec/2023,19:55 PM,UQ Chancellors Place - Stop A ,20:06 PM,Clarence Road - 36 ,$2.84,,$14.07
+ 13/Dec/2023,20:08 PM,Indooroopilly station (Touch on Transfer),20:32 PM,Darra station ,$0.63,,$13.44
+ 16/Dec/2023,17:04 PM,Darra station ,17:33 PM,Roma Street station ,$3.47,,$9.97
+ 16/Dec/2023,17:36 PM,Roma St Bus Station Platform 2 (Touch on Transfer),17:42 PM,Woolloongabba station Platform 2 ,$0.00,,$9.97
+ 16/Dec/2023,20:36 PM,Woolloongabba station Platform 1 ,20:45 PM,Queen Street Bus Station - Platform 1g ,$2.84,,$7.13
+ 16/Dec/2023,21:57 PM,Central station ,22:58 PM,Darra station ,$3.47,,$3.66
+ 18/Dec/2023,9:35 AM,Auto top up(Darra station ),,,,$20.00,$23.66
+ 18/Dec/2023,9:35 AM,Darra station ,10:01 AM,Toowong station ,$3.47,,$20.19
+ 18/Dec/2023,10:41 AM,Toowong station (Touch on Transfer),11:03 AM,Darra station ,$0.00,,$20.19
+ 18/Dec/2023,11:52 AM,Darra station (Touch on Transfer),12:01 PM,Sherwood station ,$0.00,,$20.19
+ 19/Dec/2023,8:48 AM,Darra station ,9:08 AM,Indooroopilly station ,$3.47,,$16.72
+ 19/Dec/2023,11:34 AM,Indooroopilly station ,12:07 PM,Darra station ,$3.47,,$13.25
+ 22/Dec/2023,16:16 PM,Darra station ,16:36 PM,Indooroopilly station ,$4.34,,$8.91
+ 22/Dec/2023,20:56 PM,Indooroopilly station ,21:24 PM,Darra station ,$3.47,,$5.44
+ 27/Dec/2023,8:49 AM,Darra station ,9:31 AM,South Bank station ,$3.47,,$1.97
+ 27/Dec/2023,12:00 PM,Auto top up(South Bank station ),,,,$20.00,$21.97
+ 27/Dec/2023,12:00 PM,South Bank station ,12:42 PM,Darra station ,$3.47,,$18.50
+ 29/Dec/2023,9:19 AM,Darra station ,9:38 AM,Indooroopilly station ,$3.47,,$15.03
+ 29/Dec/2023,12:22 PM,Indooroopilly station ,12:44 PM,Darra station ,$3.47,,$11.56
+ 29/Dec/2023,16:47 PM,Darra station ,17:27 PM,Fortitude Valley station ,$4.34,,$7.22
+ 30/Dec/2023,12:17 AM,Fortitude Valley station ,12:57 AM,Darra station ,$3.47,,$3.75
+ 07/Jan/2024,12:00 PM,Auto top up(Darra station ),,,,$20.00,$23.75
+ 07/Jan/2024,12:00 PM,Darra station ,12:40 PM,Fortitude Valley station ,$3.47,,$20.28
+ 07/Jan/2024,22:00 PM,Fortitude Valley station ,22:44 PM,Darra station ,$3.47,,$16.81
+ 11/Jan/2024,15:34 PM,Darra station ,16:00 PM,Milton station ,$4.34,,$12.47
+ 16/Jan/2024,12:32 PM,Darra station ,12:50 PM,Indooroopilly station ,$3.47,,$9.00
+ 16/Jan/2024,13:06 PM,Lambert Road - 35 (Touch on Transfer),13:19 PM,Uni of Qld Arrival Stop ,$0.00,,$9.00
+ 16/Jan/2024,17:29 PM,UQ Chancellors Place - Stop C ,17:31 PM,UQ Chancellors Place - Stop C ,$3.55,,$5.45
+ 16/Jan/2024,17:31 PM,UQ Chancellors Place - Stop D (Touch on Transfer),17:47 PM,'Toowong' Benson St ,$0.00,,$5.45
+ 16/Jan/2024,17:49 PM,Toowong station (Touch on Transfer),18:13 PM,Darra station ,$0.79,,$4.66
+ 18/Jan/2024,8:01 AM,Auto top up(Darra station ),,,,$20.00,$24.66
+ 18/Jan/2024,8:01 AM,Darra station ,Unknown,Failed to touch Off,$10.00,,$14.66
+ 30/Jan/2024,11:10 AM,Darra station ,11:34 AM,Indooroopilly station ,$3.47,,$11.19
+ 30/Jan/2024,11:40 AM,Lambert Road - 35 (Touch on Transfer),11:52 AM,Uni of Qld Arrival Stop ,$0.00,,$11.19
+ 30/Jan/2024,17:19 PM,UQ Chancellors Place - Stop A ,17:31 PM,Clarence Road - 36 ,$3.55,,$7.64
+ 30/Jan/2024,17:34 PM,Indooroopilly station (Touch on Transfer),17:50 PM,Darra station ,$0.79,,$6.85
+ 05/Feb/2024,8:04 AM,Darra station ,8:08 AM,Darra station (Cancel touch on),$0.00,,$6.85
+ 15/Feb/2024,14:10 PM,Indooroopilly station ,14:26 PM,Darra station ,$3.47,,$3.38
+ 19/Feb/2024,10:03 AM,Auto top up(Darra station ),,,,$20.00,$23.38
+ 19/Feb/2024,10:03 AM,Darra station ,10:29 AM,Indooroopilly station ,$3.47,,$19.91
+ 19/Feb/2024,10:35 AM,Lambert Road - 35 (Touch on Transfer),10:47 AM,Uni of Qld Arrival Stop ,$0.00,,$19.91
+ 19/Feb/2024,17:14 PM,UQ Chancellors Place - Stop A ,17:38 PM,Clarence Road - 36 ,$3.55,,$16.36
+ 19/Feb/2024,17:39 PM,Indooroopilly station (Touch on Transfer),17:49 PM,Darra station ,$0.79,,$15.57
+ 21/Feb/2024,18:00 PM,Milton station ,18:27 PM,Darra station ,$4.34,,$11.23
+ 02/Mar/2024,18:32 PM,Darra station ,19:34 PM,Fortitude Valley station ,$3.47,,$7.76
+ 03/Mar/2024,12:01 AM,Fortitude Valley station ,12:04 AM,Fortitude Valley station (Cancel touch on),$0.00,,$7.76
+ 03/Mar/2024,12:19 AM,Fortitude Valley station ,1:02 AM,Darra station ,$3.47,,$4.29
+ 05/Mar/2024,9:08 AM,Auto top up(Darra station ),,,,$20.00,$24.29
+ 05/Mar/2024,9:08 AM,Darra station ,9:41 AM,Indooroopilly station ,$3.47,,$20.82
+ 05/Mar/2024,9:44 AM,Lambert Road - 35 (Touch on Transfer),10:00 AM,Uni of Qld Arrival Stop ,$0.00,,$20.82
+ 05/Mar/2024,17:38 PM,UQ Chancellors Place - Stop B ,17:50 PM,Clarence Road - 36 ,$3.55,,$17.27
+ 05/Mar/2024,17:53 PM,Indooroopilly station (Touch on Transfer),18:12 PM,Darra station ,$0.79,,$16.48
+ 15/Mar/2024,16:49 PM,Darra station ,17:06 PM,Indooroopilly station ,$4.34,,$12.14
+ 15/Mar/2024,21:09 PM,Indooroopilly station ,21:27 PM,Darra station ,$3.47,,$8.67
+ 19/Mar/2024,9:17 AM,Darra station ,9:36 AM,Indooroopilly station ,$3.47,,$5.20
+ 19/Mar/2024,9:46 AM,Lambert Road - 35 (Touch on Transfer),10:02 AM,Uni of Qld Arrival Stop ,$0.00,,$5.20
+ 19/Mar/2024,16:44 PM,UQ Chancellors Place - Stop A ,17:05 PM,Clarence Road - 36 ,$3.55,,$1.65
+ 19/Mar/2024,17:07 PM,Auto top up(Indooroopilly station ),,,,$20.00,$21.65
+ 19/Mar/2024,17:07 PM,Indooroopilly station (Touch on Transfer),17:25 PM,Darra station ,$0.79,,$20.86
+ 21/Mar/2024,9:08 AM,Darra station ,9:26 AM,Indooroopilly station ,$3.47,,$17.39
+ 21/Mar/2024,9:32 AM,Lambert Road - 35 (Touch on Transfer),9:44 AM,Uni of Qld Arrival Stop ,$0.00,,$17.39
+ 21/Mar/2024,21:12 PM,UQ Chancellors Place - Stop D ,21:20 PM,'Toowong' Benson St ,$2.84,,$14.55
+ 21/Mar/2024,21:23 PM,Toowong station (Touch on Transfer),21:48 PM,Sherwood station ,$0.63,,$13.92
+ 25/Mar/2024,9:06 AM,Darra station ,9:19 AM,Sherwood station ,$2.84,,$11.08
+ 25/Mar/2024,11:25 AM,Sherwood station ,11:43 AM,Darra station ,$2.84,,$8.24
+ 26/Mar/2024,9:42 AM,Darra station ,10:10 AM,Indooroopilly station ,$3.47,,$4.77
+ 26/Mar/2024,10:15 AM,Auto top up(Lambert Road - 35 ),,,,$20.00,$24.77
+ 26/Mar/2024,10:15 AM,Lambert Road - 35 (Touch on Transfer),10:28 AM,Uni of Qld Arrival Stop ,$0.00,,$24.77
+ 26/Mar/2024,17:56 PM,UQ Chancellors Place - Stop B ,18:11 PM,Clarence Road - 36 ,$3.55,,$21.22
+ 26/Mar/2024,18:14 PM,Indooroopilly station (Touch on Transfer),18:30 PM,Darra station ,$0.79,,$20.43
+ 27/Mar/2024,10:14 AM,Darra station ,10:37 AM,Indooroopilly station ,$3.47,,$16.96
+ 27/Mar/2024,10:41 AM,Lambert Road - 35 (Touch on Transfer),10:56 AM,Uni of Qld Arrival Stop ,$0.00,,$16.96
+ 27/Mar/2024,19:22 PM,UQ Chancellors Place - Stop A ,19:34 PM,Clarence Road - 36 ,$2.84,,$14.12
+ 27/Mar/2024,19:36 PM,Indooroopilly station (Touch on Transfer),19:57 PM,Darra station ,$0.63,,$13.49
+ 16/Apr/2024,9:43 AM,Darra station ,10:08 AM,Indooroopilly station ,$3.47,,$10.02
+ 16/Apr/2024,10:19 AM,Lambert Road - 35 (Touch on Transfer),10:35 AM,Uni of Qld Arrival Stop ,$0.00,,$10.02
+ 03/May/2024,17:52 PM,UQ Chancellors Place - Stop A ,18:03 PM,Clarence Road - 36 ,$3.55,,$6.47
+ 03/May/2024,18:05 PM,Indooroopilly station (Touch on Transfer),18:28 PM,Darra station ,$0.79,,$5.68
+ 07/May/2024,9:14 AM,Darra station ,9:36 AM,Indooroopilly station ,$3.47,,$2.21
+ 07/May/2024,9:43 AM,Auto top up(Lambert Road - 35 ),,,,$20.00,$22.21
+ 07/May/2024,9:43 AM,Lambert Road - 35 (Touch on Transfer),9:57 AM,Uni of Qld Arrival Stop ,$0.00,,$22.21
+ 07/May/2024,16:58 PM,UQ Chancellors Place - Stop B ,17:31 PM,Lambert/Central - 35 ,$3.55,,$18.66
+ 07/May/2024,17:35 PM,Indooroopilly station (Touch on Transfer),17:48 PM,Darra station ,$0.79,,$17.87
+ 08/May/2024,9:03 AM,Darra station ,9:22 AM,Indooroopilly station ,$3.47,,$14.40
+ 08/May/2024,9:25 AM,Lambert Road - 35 (Touch on Transfer),9:42 AM,Uni of Qld Arrival Stop ,$0.00,,$14.40
+ 08/May/2024,17:58 PM,UQ Chancellors Place - Stop D ,18:08 PM,'Toowong' Benson St ,$3.55,,$10.85
+ 08/May/2024,18:11 PM,Toowong station (Touch on Transfer),18:39 PM,Darra station ,$0.79,,$10.06
+ 09/May/2024,9:07 AM,Darra station ,9:25 AM,Indooroopilly station ,$3.47,,$6.59
+ 09/May/2024,9:36 AM,Lambert Road - 35 (Touch on Transfer),9:50 AM,Uni of Qld Arrival Stop ,$0.00,,$6.59
+ 09/May/2024,17:50 PM,UQ Chancellors Place - Stop A ,18:30 PM,Holy Family - 33 ,$3.55,,$3.04
+ 09/May/2024,18:37 PM,Auto top up(Indooroopilly station ),,,,$20.00,$23.04
+ 09/May/2024,18:37 PM,Indooroopilly station (Touch on Transfer),18:59 PM,Darra station ,$0.79,,$22.25
+ 10/May/2024,16:32 PM,Darra station ,17:00 PM,Milton station ,$4.34,,$17.91
+ 13/May/2024,9:04 AM,Darra station ,9:19 AM,Indooroopilly station ,$3.47,,$14.44
+ 13/May/2024,9:29 AM,Lambert Road - 35 (Touch on Transfer),9:39 AM,Uni of Qld Arrival Stop ,$0.00,,$14.44
+ 13/May/2024,9:44 AM,UQ Chancellors Place - Stop E (Touch on Transfer),9:46 AM,'St Lucia South' Boomerang Road West ,$0.00,,$14.44
+ 13/May/2024,16:58 PM,UQ Chancellors Place - Stop D ,17:10 PM,'Toowong' Benson St ,$3.55,,$10.89
+ 13/May/2024,17:12 PM,Toowong station (Touch on Transfer),17:46 PM,Darra station ,$0.79,,$10.10
+ 14/May/2024,9:55 AM,Darra station ,10:21 AM,Indooroopilly station ,$3.47,,$6.63
+ 14/May/2024,10:30 AM,Lambert Road - 35 (Touch on Transfer),10:42 AM,Uni of Qld Arrival Stop ,$0.00,,$6.63
+ 14/May/2024,17:19 PM,Uni of Qld Arrival Stop ,17:36 PM,Burns Street - 27 ,$3.55,,$3.08
+ 14/May/2024,17:49 PM,Auto top up(Indooroopilly station ),,,,$20.00,$23.08
+ 14/May/2024,17:49 PM,Indooroopilly station (Touch on Transfer),17:59 PM,Darra station ,$0.79,,$22.29
+ 16/May/2024,10:02 AM,Darra station ,10:21 AM,Indooroopilly station ,$3.47,,$18.82
+ 16/May/2024,10:29 AM,Lambert Road - 35 (Touch on Transfer),10:39 AM,Uni of Qld Arrival Stop ,$0.00,,$18.82
+ 16/May/2024,16:07 PM,UQ Chancellors Place - Stop B ,16:22 PM,Clarence Road - 36 ,$3.55,,$15.27
+ 16/May/2024,16:24 PM,Indooroopilly station (Touch on Transfer),16:37 PM,Darra station ,$0.79,,$14.48
+ 17/May/2024,14:56 PM,Darra station ,15:21 PM,Indooroopilly station ,$3.47,,$11.01
+ 17/May/2024,15:29 PM,Lambert Road - 35 (Touch on Transfer),15:43 PM,Uni of Qld Arrival Stop ,$0.00,,$11.01
+ 17/May/2024,18:11 PM,UQ Chancellors Place - Stop A ,18:23 PM,Clarence Road - 36 ,$3.55,,$7.46
+ 17/May/2024,18:25 PM,Indooroopilly station (Touch on Transfer),18:40 PM,Darra station ,$0.79,,$6.67
+ 18/May/2024,23:14 PM,Fortitude Valley station ,23:38 PM,South Bank station ,$1.42,,$5.25
+ 19/May/2024,9:46 AM,Darra station ,10:34 AM,Roma Street station ,$1.74,,$3.51
+ 19/May/2024,10:37 AM,Auto top up(Roma St Bus Station Platform 2 ),,,,$20.00,$23.51
+ 19/May/2024,10:37 AM,Roma St Bus Station Platform 2 (Touch on Transfer),10:46 AM,Mater Hill station Platform 2 ,$0.00,,$23.51
+ 20/May/2024,15:10 PM,Darra station ,15:37 PM,Indooroopilly station ,$3.47,,$20.04
+ 20/May/2024,16:03 PM,Lambert Road - 35 (Touch on Transfer),16:17 PM,Uni of Qld Arrival Stop ,$0.00,,$20.04
+ 20/May/2024,17:41 PM,UQ Chancellors Place - Stop A ,17:59 PM,Clarence Road - 36 ,$3.55,,$16.49
+ 20/May/2024,18:18 PM,Darra station (Touch on Transfer),Unknown,Failed to touch Off,$10.00,,$6.49
+ 21/May/2024,9:52 AM,Darra station ,10:08 AM,Indooroopilly station ,$3.47,,$3.02
+ 21/May/2024,10:16 AM,Auto top up(Lambert Road - 35 ),,,,$20.00,$23.02
+ 21/May/2024,10:16 AM,Lambert Road - 35 (Touch on Transfer),10:32 AM,Uni of Qld Arrival Stop ,$0.00,,$23.02
+ 21/May/2024,16:07 PM,Uni of Qld Arrival Stop ,16:20 PM,Clarence Road - 36 ,$3.55,,$19.47
+ 21/May/2024,16:23 PM,Indooroopilly station (Touch on Transfer),16:35 PM,Darra station ,$0.79,,$18.68
+ 22/May/2024,9:59 AM,Darra station ,10:19 AM,Indooroopilly station ,$3.47,,$15.21
+ 22/May/2024,10:32 AM,Lambert Road - 35 (Touch on Transfer),10:41 AM,Uni of Qld Arrival Stop ,$0.00,,$15.21
+ 22/May/2024,17:43 PM,UQ Chancellors Place - Stop D ,17:54 PM,'Toowong' Benson St ,$3.55,,$11.66
+ 22/May/2024,17:58 PM,Toowong station (Touch on Transfer),18:39 PM,Darra station ,$0.79,,$10.87
+ 23/May/2024,9:07 AM,Darra station ,9:26 AM,Indooroopilly station ,$3.47,,$7.40
+ 23/May/2024,9:29 AM,Lambert Road - 35 (Touch on Transfer),9:39 AM,Uni of Qld Arrival Stop ,$0.00,,$7.40
+ 23/May/2024,17:39 PM,UQ Chancellors Place - Stop B ,18:08 PM,Clarence Road - 36 ,$3.55,,$3.85
+ 23/May/2024,18:10 PM,Auto top up(Indooroopilly station ),,,,$20.00,$23.85
+ 23/May/2024,18:10 PM,Indooroopilly station (Touch on Transfer),18:26 PM,Darra station ,$0.79,,$23.06
+ 24/May/2024,8:32 AM,Darra station ,8:50 AM,Indooroopilly station ,$1.74,,$21.32
+ 24/May/2024,8:54 AM,Lambert Road - 35 (Touch on Transfer),9:07 AM,Uni of Qld Arrival Stop ,$0.00,,$21.32
+ 24/May/2024,15:58 PM,UQ Chancellors Place - Stop B ,Unknown,Failed to touch Off,$5.00,,$16.32
+ 24/May/2024,16:26 PM,Darra station ,16:27 PM,Darra station (Cancel touch on),$0.00,,$16.32
+ 27/May/2024,9:02 AM,Darra station ,9:22 AM,Indooroopilly station ,$3.47,,$12.85
+ 27/May/2024,9:29 AM,Lambert Road - 35 (Touch on Transfer),9:39 AM,Hawken Village - 30 ,$0.00,,$12.85
+ 27/May/2024,20:24 PM,UQ Chancellors Place - Stop A ,20:37 PM,Clarence Road - 36 ,$2.84,,$10.01
+ 27/May/2024,20:39 PM,Indooroopilly station (Touch on Transfer),20:56 PM,Darra station ,$0.63,,$9.38
+ 29/May/2024,9:03 AM,Darra station ,9:21 AM,Indooroopilly station ,$3.47,,$5.91
+ 29/May/2024,9:27 AM,Lambert Road - 35 (Touch on Transfer),9:40 AM,Uni of Qld Arrival Stop ,$0.00,,$5.91
+ 29/May/2024,19:40 PM,UQ Chancellors Place - Stop D ,19:52 PM,'Toowong' Benson St ,$2.84,,$3.07
+ 29/May/2024,19:56 PM,Auto top up(Toowong station ),,,,$20.00,$23.07
+ 29/May/2024,19:56 PM,Toowong station (Touch on Transfer),20:20 PM,Darra station ,$0.63,,$22.44
+ 31/May/2024,9:08 AM,Darra station ,9:25 AM,Indooroopilly station ,$3.47,,$18.97
+ 31/May/2024,9:28 AM,Lambert Road - 35 (Touch on Transfer),9:40 AM,Uni of Qld Arrival Stop ,$0.00,,$18.97
+ 31/May/2024,16:52 PM,UQ Chancellors Place - Stop A ,17:04 PM,Clarence Road - 36 ,$3.55,,$15.42
+ 31/May/2024,17:06 PM,Indooroopilly station (Touch on Transfer),17:23 PM,Darra station ,$0.79,,$14.63
+ 05/Jun/2024,11:01 AM,Darra station ,11:20 AM,Indooroopilly station ,$3.47,,$11.16
+ 05/Jun/2024,11:30 AM,Lambert Road - 35 (Touch on Transfer),11:41 AM,Uni of Qld Arrival Stop ,$0.00,,$11.16
+ 05/Jun/2024,17:12 PM,UQ Chancellors Place - Stop A ,17:37 PM,Swann/Clarence - 29 ,$3.55,,$7.61
+ 05/Jun/2024,17:51 PM,Indooroopilly station (Touch on Transfer),18:09 PM,Darra station ,$0.79,,$6.82
+ 06/Jun/2024,9:04 AM,Darra station ,9:22 AM,Indooroopilly station ,$3.47,,$3.35
+ 06/Jun/2024,9:27 AM,Auto top up(Lambert Road - 35 ),,,,$20.00,$23.35
+ 06/Jun/2024,9:27 AM,Lambert Road - 35 (Touch on Transfer),9:40 AM,Uni of Qld Arrival Stop ,$0.00,,$23.35
+ 06/Jun/2024,13:30 PM,UQ Chancellors Place - Stop D ,13:40 PM,'Toowong' Benson St ,$2.84,,$20.51
+ 06/Jun/2024,13:42 PM,Toowong station (Touch on Transfer),14:07 PM,Darra station ,$0.63,,$19.88
+ 07/Jun/2024,10:40 AM,Darra station ,10:57 AM,Indooroopilly station ,$3.47,,$16.41
+ 07/Jun/2024,11:05 AM,Lambert Road - 35 (Touch on Transfer),11:20 AM,Uni of Qld Arrival Stop ,$0.00,,$16.41
+ 07/Jun/2024,16:58 PM,UQ Chancellors Place - Stop B ,17:10 PM,Clarence Road - 36 ,$3.55,,$12.86
+ 07/Jun/2024,17:12 PM,Indooroopilly station (Touch on Transfer),17:25 PM,Darra station ,$0.79,,$12.07
+ 08/Jun/2024,18:00 PM,Darra station ,18:45 PM,Fortitude Valley station ,$3.47,,$8.60
+ 08/Jun/2024,23:46 PM,Fortitude Valley station ,12:29 AM,Darra station ,$3.47,,$5.13
+ 09/Jun/2024,17:55 PM,Darra station ,18:29 PM,Milton station ,$1.74,,$3.39
+ 10/Jun/2024,9:05 AM,Auto top up(Darra station ),,,,$20.00,$23.39
+ 10/Jun/2024,9:05 AM,Darra station ,9:21 AM,Indooroopilly station ,$3.47,,$19.92
+ 10/Jun/2024,9:30 AM,Lambert Road - 35 (Touch on Transfer),9:39 AM,Uni of Qld Arrival Stop ,$0.00,,$19.92
+ 10/Jun/2024,9:42 AM,UQ Chancellors Place - Stop E (Touch on Transfer),9:45 AM,'St Lucia South' Boomerang Road West ,$0.00,,$19.92
+ 10/Jun/2024,13:56 PM,UQ Chancellors Place - Stop B ,14:09 PM,Clarence Road - 36 ,$2.84,,$17.08
+ 10/Jun/2024,14:11 PM,Indooroopilly station (Touch on Transfer),14:27 PM,Darra station ,$0.63,,$16.45
+ 11/Jun/2024,10:48 AM,Darra station ,11:05 AM,Indooroopilly station ,$3.47,,$12.98
+ 11/Jun/2024,11:10 AM,Lambert Road - 35 (Touch on Transfer),11:23 AM,Uni of Qld Arrival Stop ,$0.00,,$12.98
+ 11/Jun/2024,17:13 PM,UQ Chancellors Place - Stop A ,17:33 PM,Clarence Road - 36 ,$3.55,,$9.43
+ 11/Jun/2024,17:35 PM,Indooroopilly station (Touch on Transfer),17:47 PM,Darra station ,$0.79,,$8.64
+ 12/Jun/2024,11:04 AM,Darra station ,11:21 AM,Indooroopilly station ,$3.47,,$5.17
+ 12/Jun/2024,11:26 AM,Lambert Road - 35 (Touch on Transfer),11:37 AM,Uni of Qld Arrival Stop ,$0.00,,$5.17
+ 12/Jun/2024,20:34 PM,UQ Chancellors Place - Stop A ,20:49 PM,Clarence Road - 36 ,$2.84,,$2.33
+ 12/Jun/2024,20:51 PM,Auto top up(Indooroopilly station ),,,,$20.00,$22.33
+ 12/Jun/2024,20:51 PM,Indooroopilly station (Touch on Transfer),21:12 PM,Darra station ,$0.63,,$21.70
+ 20/Jun/2024,10:01 AM,Darra station ,10:21 AM,Indooroopilly station ,$3.47,,$18.23
+ 20/Jun/2024,10:28 AM,Lambert Road - 35 (Touch on Transfer),10:38 AM,Uni of Qld Arrival Stop ,$0.00,,$18.23
+ 20/Jun/2024,14:48 PM,UQ Chancellors Place - Stop A ,15:00 PM,Clarence Road - 36 ,$2.84,,$15.39
+ 20/Jun/2024,15:05 PM,Indooroopilly station (Touch on Transfer),15:21 PM,Darra station ,$0.63,,$14.76
+ 27/Jun/2024,11:49 AM,Darra station ,12:21 PM,Central station ,$3.47,,$11.29
+ 27/Jun/2024,13:24 PM,Central station ,13:43 PM,Indooroopilly station ,$2.84,,$8.45
+ 27/Jun/2024,14:55 PM,Indooroopilly station ,15:17 PM,Darra station ,$3.47,,$4.98
+ 04/Jul/2024,9:04 AM,Auto top up(Darra station ),,,,$20.00,$24.98
+ 04/Jul/2024,9:04 AM,Darra station ,9:39 AM,Central station ,$3.47,,$21.51
+ 04/Jul/2024,19:06 PM,Central station ,19:42 PM,Darra station ,$3.47,,$18.04
+ 05/Jul/2024,21:26 PM,South Brisbane station ,21:51 PM,Fortitude Valley station ,$2.84,,$15.20
+ 06/Jul/2024,10:03 AM,Darra station ,10:20 AM,Indooroopilly station ,$3.47,,$11.73
+ 06/Jul/2024,10:36 AM,Lambert Road - 35 (Touch on Transfer),10:49 AM,Uni of Qld Arrival Stop ,$0.00,,$11.73
+ 09/Jul/2024,10:33 AM,Darra station ,10:50 AM,Indooroopilly station ,$3.47,,$8.26
+ 09/Jul/2024,11:16 AM,Lambert Road - 35 (Touch on Transfer),11:31 AM,Uni of Qld Arrival Stop ,$0.00,,$8.26
+ 09/Jul/2024,16:43 PM,UQ St Lucia ferry terminal ,Unknown,Failed to touch Off,$5.00,,$3.26
+ 09/Jul/2024,18:26 PM,Milton station ,18:36 PM,Central station ,$3.55,,-$0.29
+ 09/Jul/2024,22:17 PM,Auto top up(Cultural Centre station ),,,,$20.00,$19.71
+ 09/Jul/2024,22:17 PM,Cultural Centre station ,22:23 PM,Roma St Bus Station Platform 1 ,$2.84,,$16.87
+ 09/Jul/2024,22:26 PM,Roma Street station (Touch on Transfer),22:56 PM,Darra station ,$0.63,,$16.24
+ 11/Jul/2024,22:10 PM,South Brisbane station ,22:56 PM,Darra station ,$3.47,,$12.77
+ 12/Jul/2024,8:48 AM,Darra station ,9:07 AM,Indooroopilly station ,$3.47,,$9.30
+ 12/Jul/2024,9:13 AM,Lambert Road - 35 (Touch on Transfer),9:29 AM,Uni of Qld Arrival Stop ,$0.00,,$9.30
+ 16/Jul/2024,10:31 AM,Darra station ,10:51 AM,Indooroopilly station ,$3.47,,$5.83
+ 17/Jul/2024,17:38 PM,Top Up( Darra station  ),17:38 PM,Darra station ,$4.34,$20.00,$22.94
+ 26/Jul/2024,16:19 PM,Darra station ,16:45 PM,Milton station ,$4.34,,$18.60
+ 31/Jul/2024,9:32 AM,UQ Lakes - Stop D ,9:41 AM,Mater Hill station Platform 1 ,$2.84,,$15.76
+ 31/Jul/2024,10:54 AM,Mater Hill station Platform 2 ,11:03 AM,UQ Lakes - Arrival ,$2.84,,$12.92
+ 08/Aug/2024,8:56 AM,Darra station ,9:21 AM,Indooroopilly station ,$0.50,,$12.42
+ 08/Aug/2024,9:31 AM,Lambert Road - 35 (Touch on Transfer),9:45 AM,Uni of Qld Arrival Stop ,$0.00,,$12.42
+ 08/Aug/2024,16:31 PM,Indooroopilly station ,16:49 PM,Darra station ,$0.50,,$11.92
+ 12/Aug/2024,10:03 AM,Darra station ,10:21 AM,Indooroopilly station ,$0.50,,$11.42
+ 12/Aug/2024,10:27 AM,Lambert Road - 35 (Touch on Transfer),10:38 AM,Uni of Qld Arrival Stop ,$0.00,,$11.42
+ 12/Aug/2024,18:53 PM,UQ Chancellors Place - Stop A ,19:06 PM,Clarence Road - 36 ,$0.50,,$10.92
+ 12/Aug/2024,19:08 PM,Indooroopilly station (Touch on Transfer),19:27 PM,Darra station ,$0.00,,$10.92
+ 13/Aug/2024,20:04 PM,Darra station ,20:29 PM,Milton station ,$0.50,,$10.42
+ 13/Aug/2024,22:51 PM,Milton station ,23:28 PM,Darra station ,$0.50,,$9.92
+ 16/Aug/2024,9:33 AM,Darra station ,9:53 AM,Indooroopilly station ,$0.50,,$9.42
+ 16/Aug/2024,9:56 AM,Lambert Road - 35 (Touch on Transfer),10:10 AM,Uni of Qld Arrival Stop ,$0.00,,$9.42
+ 16/Aug/2024,10:12 AM,UQ Chancellors Place - Stop E (Touch on Transfer),10:14 AM,'St Lucia South' Boomerang Road West ,$0.00,,$9.42
+ 16/Aug/2024,17:14 PM,UQ St Lucia ferry terminal ,17:33 PM,Milton ferry terminal ,$0.50,,$8.92
+ 16/Aug/2024,20:37 PM,Toowong station ,20:58 PM,Darra station ,$0.50,,$8.42
+ 20/Aug/2024,9:05 AM,Darra station ,9:23 AM,Indooroopilly station ,$0.50,,$7.92
+ 20/Aug/2024,9:28 AM,Lambert Road - 35 (Touch on Transfer),9:40 AM,Uni of Qld Arrival Stop ,$0.00,,$7.92
+ 20/Aug/2024,16:19 PM,UQ Lakes - Stop D ,16:34 PM,Cultural Centre station ,$0.50,,$7.42
+ 20/Aug/2024,16:36 PM,Cultural Centre station (Touch on Transfer),16:46 PM,Wickham St app Gotha St (Stop 226) ,$0.00,,$7.42
+ 20/Aug/2024,19:00 PM,Adelaide St - (Stop 32) ,19:09 PM,Manning Street - 4 ,$0.50,,$6.92
+ 20/Aug/2024,21:03 PM,South Brisbane station ,21:55 PM,Darra station ,$0.50,,$6.42
+ 22/Aug/2024,8:48 AM,Darra station ,9:06 AM,Indooroopilly station ,$0.50,,$5.92
+ 22/Aug/2024,9:10 AM,Lambert Road - 35 (Touch on Transfer),9:23 AM,Uni of Qld Arrival Stop ,$0.00,,$5.92
+ 22/Aug/2024,12:58 PM,Hawken Village - 30 ,13:11 PM,Clarence Road - 36 ,$0.50,,$5.42
+ 22/Aug/2024,13:14 PM,Indooroopilly station (Touch on Transfer),13:42 PM,Darra station ,$0.00,,$5.42
+ 23/Aug/2024,17:50 PM,Darra station ,18:18 PM,Milton station ,$0.50,,$4.92
+ 23/Aug/2024,20:39 PM,Auto top up(QUT Gardens Point ferry terminal ),,,,$20.00,$24.92
+ 23/Aug/2024,20:39 PM,QUT Gardens Point ferry terminal ,20:56 PM,Regatta ferry terminal ,$0.50,,$24.42
+ 23/Aug/2024,21:11 PM,Toowong station (Touch on Transfer),21:43 PM,Darra station ,$0.00,,$24.42
+ 27/Aug/2024,9:59 AM,Darra station ,10:21 AM,Indooroopilly station ,$0.50,,$23.92
+ 27/Aug/2024,10:27 AM,Lambert Road - 35 (Touch on Transfer),10:36 AM,Uni of Qld Arrival Stop ,$0.00,,$23.92
+ 27/Aug/2024,12:26 PM,Hawken Village - 30 ,12:36 PM,Clarence Road - 36 ,$0.50,,$23.42
+ 27/Aug/2024,12:39 PM,Indooroopilly station (Touch on Transfer),12:56 PM,Darra station ,$0.00,,$23.42
+ 30/Aug/2024,8:34 AM,Darra station ,8:50 AM,Indooroopilly station ,$0.50,,$22.92
+ 30/Aug/2024,8:55 AM,Lambert Road - 35 (Touch on Transfer),9:06 AM,Uni of Qld Arrival Stop ,$0.00,,$22.92
+ 30/Aug/2024,13:53 PM,UQ Chancellors Place - Stop D ,14:01 PM,'Toowong' Benson St ,$0.50,,$22.42
+ 30/Aug/2024,14:03 PM,Toowong station (Touch on Transfer),14:26 PM,Darra station ,$0.00,,$22.42
+ 30/Aug/2024,Unknown,Failed to touch on,18:40 PM,Fortitude Valley station ,$2.50,,$19.92
+ 02/Sep/2024,15:00 PM,Darra station ,15:20 PM,Indooroopilly station ,$0.00,,$19.42
+ 02/Sep/2024,15:31 PM,Lambert Road - 35 (Touch on Transfer),15:46 PM,Uni of Qld Arrival Stop ,$0.00,,$19.42
+ 02/Sep/2024,18:31 PM,UQ Chancellors Place - Stop D ,18:42 PM,'Toowong' Benson St ,$0.50,,$18.92
+ 02/Sep/2024,18:45 PM,Toowong station (Touch on Transfer),19:07 PM,Darra station ,$0.00,,$18.92
+ 04/Sep/2024,7:11 AM,Darra station ,7:23 AM,Indooroopilly station ,$0.50,,$18.42
+ 04/Sep/2024,7:31 AM,Lambert Road - 35 (Touch on Transfer),7:44 AM,Uni of Qld Arrival Stop ,$0.00,,$18.42
+ 04/Sep/2024,16:02 PM,Indooroopilly station ,16:27 PM,Darra station ,$0.50,,$17.92
+ 06/Sep/2024,9:19 AM,Darra station ,9:37 AM,Indooroopilly station ,$0.50,,$17.42
+ 06/Sep/2024,9:41 AM,Lambert Road - 35 (Touch on Transfer),10:00 AM,Uni of Qld Arrival Stop ,$0.00,,$17.42
+ 06/Sep/2024,17:14 PM,UQ Chancellors Place - Stop B ,17:23 PM,Clarence Road - 36 ,$0.50,,$16.92
+ 06/Sep/2024,17:26 PM,Indooroopilly station (Touch on Transfer),17:35 PM,Darra station ,$0.00,,$16.92
+ 18/Sep/2024,7:02 AM,Darra station ,7:17 AM,Indooroopilly station ,$0.50,,$16.42
+ 18/Sep/2024,7:25 AM,Lambert Road - 35 (Touch on Transfer),7:36 AM,Uni of Qld Arrival Stop ,$0.00,,$16.42
+ 18/Sep/2024,20:14 PM,UQ Chancellors Place - Stop D ,20:22 PM,'Toowong' Benson St ,$0.50,,$15.92
+ 18/Sep/2024,20:26 PM,Toowong station (Touch on Transfer),20:59 PM,Darra station ,$0.00,,$15.92
+ 20/Sep/2024,13:48 PM,Darra station ,14:06 PM,Indooroopilly station ,$0.00,,$15.42
+ 20/Sep/2024,14:10 PM,Lambert Road - 35 (Touch on Transfer),14:21 PM,Hawken Village - 30 ,$0.00,,$15.42
+ 20/Sep/2024,15:33 PM,UQ Chancellors Place - Stop D ,15:42 PM,'Toowong' Benson St ,$0.50,,$14.92
+ 20/Sep/2024,16:04 PM,Toowong station (Touch on Transfer),16:31 PM,Darra station ,$0.00,,$14.92
+ 21/Sep/2024,10:04 AM,Darra station ,10:21 AM,Indooroopilly station ,$0.50,,$14.42
+ 21/Sep/2024,10:35 AM,Lambert Road - 35 (Touch on Transfer),10:47 AM,Uni of Qld Arrival Stop ,$0.00,,$14.42
+ 21/Sep/2024,18:36 PM,UQ Chancellors Place - Stop D ,18:45 PM,'Toowong' Benson St ,$0.50,,$13.92
+ 21/Sep/2024,21:40 PM,Toowong station ,22:12 PM,Darra station ,$0.50,,$13.42
+ 24/Sep/2024,9:04 AM,Darra station ,9:20 AM,Indooroopilly station ,$0.00,,$12.92
+ 24/Sep/2024,9:30 AM,Lambert Road - 35 (Touch on Transfer),9:38 AM,Uni of Qld Arrival Stop ,$0.00,,$12.92
+ 24/Sep/2024,12:02 PM,UQ Chancellors Place - Stop B ,12:15 PM,Clarence Road - 36 ,$0.50,,$12.42
+ 24/Sep/2024,12:18 PM,Indooroopilly station (Touch on Transfer),12:42 PM,Darra station ,$0.00,,$12.42
+ 06/Oct/2024,21:02 PM,Darra station ,21:28 PM,Toowong station ,$0.50,,$11.92
+ 09/Oct/2024,21:03 PM,Sherwood station ,21:13 PM,Darra station ,$0.50,,$11.42
+ 21/Oct/2024,13:59 PM,Darra station ,14:22 PM,Indooroopilly station ,$0.50,,$10.92
+ 21/Oct/2024,14:29 PM,Lambert Road - 35 (Touch on Transfer),14:40 PM,UQ Chancellors Place - Stop A ,$0.00,,$10.92
+ 21/Oct/2024,17:34 PM,UQ Chancellors Place - Stop D ,17:50 PM,'Cribb Street' Coronation Drive ,$0.50,,$10.42
+ 21/Oct/2024,19:00 PM,Milton station ,19:26 PM,Darra station ,$0.50,,$9.92
+ 23/Oct/2024,7:05 AM,Darra station ,7:18 AM,Indooroopilly station ,$0.50,,$9.42
+ 23/Oct/2024,7:22 AM,Lambert Road - 35 (Touch on Transfer),7:36 AM,Uni of Qld Arrival Stop ,$0.00,,$9.42
+ 23/Oct/2024,11:53 AM,UQ Lakes - Stop A ,12:11 PM,Upper Mt Gravatt station ,$0.50,,$8.92
+ 23/Oct/2024,13:13 PM,Upper Mt Gravatt station ,13:34 PM,UQ Lakes - Stop A ,$0.50,,$8.42
+ 23/Oct/2024,15:56 PM,UQ Chancellors Place - Stop B ,16:11 PM,Clarence Road - 36 ,$0.50,,$7.92
+ 23/Oct/2024,16:14 PM,Indooroopilly station (Touch on Transfer),16:29 PM,Darra station ,$0.00,,$7.92
+ 26/Oct/2024,10:55 AM,City Hall - KGS 1B ,10:56 AM,Roma St Bus Station Platform 1 ,$0.50,,$7.42
+ 01/Nov/2024,8:17 AM,Darra station ,8:50 AM,Central station ,$0.50,,$6.92
+ 01/Nov/2024,12:04 PM,Central station ,12:42 PM,Darra station ,$0.50,,$6.42
+ 13/Nov/2024,10:03 AM,Darra station ,10:20 AM,Indooroopilly station ,$0.50,,$5.92
+ 13/Nov/2024,10:26 AM,Lambert Road - 35 (Touch on Transfer),10:36 AM,Uni of Qld Arrival Stop ,$0.00,,$5.92
+ 13/Nov/2024,14:00 PM,UQ Chancellors Place - Stop B ,14:11 PM,Clarence Road - 36 ,$0.50,,$5.42
+ 13/Nov/2024,14:27 PM,Indooroopilly station (Touch on Transfer),14:42 PM,Darra station ,$0.00,,$5.42
+ 14/Nov/2024,7:51 AM,Darra station ,8:01 AM,Sherwood station ,$0.50,,$4.92
+ 14/Nov/2024,8:44 AM,Auto top up(Sherwood station ),,,,$20.00,$24.92
+ 14/Nov/2024,8:44 AM,Sherwood station (Touch on Transfer),9:06 AM,Central station ,$0.00,,$24.92
+ 14/Nov/2024,12:45 PM,Central station ,13:27 PM,Darra station ,$0.50,,$24.42
+ 21/Nov/2024,5:55 AM,Darra station ,6:54 AM,International Airport station ,$11.45,,$12.97
+ 18/Dec/2024,6:42 AM,International Airport station ,8:14 AM,Darra station ,$11.45,,$1.52
+ 17/Jan/2025,20:20 PM,Auto top up(Darra station ),,,,$20.00,$21.52
+ 17/Jan/2025,20:20 PM,Darra station ,20:41 PM,Toowong station ,$0.50,,$21.02
+ 17/Jan/2025,23:45 PM,Milton station ,12:28 AM,Darra station ,$0.50,,$20.52
+ 31/Jan/2025,16:58 PM,Darra station ,17:40 PM,South Brisbane station ,$0.50,,$20.02
+ 31/Jan/2025,20:34 PM,Milton station ,21:00 PM,Darra station ,$0.50,,$19.52
+ 02/Feb/2025,10:33 AM,Darra station ,11:04 AM,Roma Street station ,$0.50,,$19.02
+ 02/Feb/2025,11:07 AM,Roma Street station (Touch on Transfer),Unknown,Failed to touch Off,$2.50,,$16.52
+ 09/Feb/2025,12:45 PM,'Cribb Street' Coronation Drive ,12:58 PM,UQ Chancellors Place - Stop E ,$0.50,,$16.02
+ 09/Feb/2025,16:17 PM,UQ Lakes - Stop A ,16:24 PM,PAH Station Platform 1 ,$0.50,,$15.52
+ 11/Feb/2025,7:36 AM,Darra station ,8:02 AM,Central station ,$0.50,,$15.02
+ 11/Feb/2025,10:11 AM,City Hall - KGS 2A ,10:27 AM,UQ Lakes - Arrival ,$0.50,,$14.52
+ 11/Feb/2025,12:25 PM,City Hall - KGS 1D ,Unknown,Failed to touch Off,$2.50,,$12.02
+ 11/Feb/2025,20:42 PM,Central station ,Unknown,Failed to touch Off,$2.50,,$9.52
+ 12/Feb/2025,17:48 PM,Darra station ,18:23 PM,Central station ,$0.50,,$9.02
+ 12/Feb/2025,20:42 PM,Central station ,21:17 PM,Darra station ,$0.50,,$8.52
+ 13/Feb/2025,8:51 AM,Darra station ,9:25 AM,Central station ,$0.50,,$8.02
+ 14/Feb/2025,8:49 AM,Darra station ,9:21 AM,Central station ,$0.50,,$7.52
+ 14/Feb/2025,11:58 AM,Central station ,12:46 PM,Darra station ,$0.50,,$7.02
+ 19/Feb/2025,7:25 AM,Darra station ,7:35 AM,Indooroopilly station ,$0.50,,$6.52
+ 19/Feb/2025,7:44 AM,Lambert Road - 35 (Touch on Transfer),7:58 AM,Uni of Qld Arrival Stop ,$0.00,,$6.52
+ 19/Feb/2025,16:05 PM,UQ Chancellors Place - Stop A ,16:17 PM,Clarence Road - 36 ,$0.50,,$6.02
+ 19/Feb/2025,16:20 PM,Indooroopilly station (Touch on Transfer),16:43 PM,Darra station ,$0.00,,$6.02
